@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @potros
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning graphql
-- 💞️ I’m looking to collaborate on node.js projects
+- 🌱 I’m currently learning graphql,rust
+- 💞️ I’m looking to collaborate on node.js,Go,PHP projects
 
 <!---
 potros/potros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
