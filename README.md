@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @potros
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning graphql,rust
+- 🌱 I’m currently learning graphql, Rust,
 - 💞️ I’m looking to collaborate on node.js,Go,PHP projects
 
 <!---
